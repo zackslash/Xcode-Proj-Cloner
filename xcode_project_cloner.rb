@@ -1,4 +1,7 @@
 #!/usr/bin/env ruby
+#
+# Xcode-Proj-Cloner - Copyright (c) 2015 Luke Hines - This content is released under the MIT License. 
+#
 # Creates a clone of an xcode project updating the 
 # project paths and and all project references
 
